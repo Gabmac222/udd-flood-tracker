@@ -1,0 +1,11 @@
+Mode: built-in image_gen
+Output: public/assets/safety-illustrations.png
+
+Use case: illustration-story
+Asset type: six custom illustrated UI icons in a single sprite sheet for UDD Flood Tracker, a Google Material-inspired flood safety app for Dagupan.
+Primary request: a polished set of friendly, softly dimensional editorial pictograms. Exactly six separate icons on a perfectly regular 3-column by 2-row grid, each centered in its own equal cell, ample equal padding, landscape canvas ratio 3:2.
+Top row left: folded pale blue street map with a deep navy location pin and a small blue river. Top row middle: a blue camera with a small privacy shield. Top row right: three abstract blue community figures beneath a small protective shield.
+Bottom row left: a small blue house protected by a large sky-blue umbrella. Bottom row middle: a simple white swan-shaped boat on a small blue water ripple, as the memorable Swan Boat Baha Level illustration. Bottom row right: a blue-and-white lifebuoy with a small reassuring shield.
+Style: contemporary Material 3 editorial illustration, subtle clay-like depth with clean crisp contours, minimal detail, beautiful soft natural shadows, useful at small sizes. No cartoon faces.
+Color palette: ONLY Universidad de Dagupan navy #000269, sky #8DC9FD, white, and derived blue tints. No purple, teal, orange or decorative warm colors.
+Background: genuinely transparent background; preserve alpha. No grids, dividers, labels, text, letters, numbers, badges, logos, watermarks, screenshots or phone frames. Each object isolated with clear silhouette. No overlapping between cells.
